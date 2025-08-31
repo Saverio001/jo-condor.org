@@ -16,17 +16,19 @@ type: landing
 sidebar: false
 ---
 
-Summary.
+Welcome to this website!
 
 <!--more-->
-1{{< gallery images="images/the-great-deceiver.jpeg" >}}
-1![Resize](images/the-great-deceiver.jpeg?width=500px)
-Content.
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+![Bauhaus Ballet](bauhaus.webp)
+
+Audio files
+> [!NOTE]
+> You can test
+> - [text](text)
+> - [audio](audio)
+> - [images](images)
+
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
@@ -34,7 +36,3 @@ Content.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-> [!QUESTION]+ Can alerts be foldable?
-> Yes, they can, you just need to append the `+` or `-` sign to the type.
->
-> Click the heading to preview.

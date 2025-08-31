@@ -16,6 +16,7 @@ images: []
 menu:
   main:
     identifier: Images
+    weight: 50
     params:
       icon: '<i class="fas fa-fw fa-blog"></i>'
       description: 'Images'

@@ -28,6 +28,7 @@ goldmark:
 markup:
   goldmark:
     parser:
+      wrapStandAloneImageWithinParagraph: false      
       attribute:
         block: false
         title: true

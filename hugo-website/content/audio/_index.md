@@ -2,7 +2,7 @@
 title: Audio
 menu:
   main:
-    weight: 2
+    weight: 40
     params:
       icon: '<i class="fas fa-fw fa-newspaper"></i>'
 ---
