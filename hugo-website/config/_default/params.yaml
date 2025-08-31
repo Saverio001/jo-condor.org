@@ -223,7 +223,7 @@ fontSize:
   # extraSmall: .8rem
   # small: .9rem
   # large: 1.1rem
-  # extraLarge: 1.2rem
+  extraLarge: 1.2rem
 
 pwa:
   manifest:

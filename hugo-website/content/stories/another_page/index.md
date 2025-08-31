@@ -11,7 +11,7 @@ pinned: false
 carousel: false
 series:
 categories: []
-tags: []
+tags: ["horror"]
 images: []
 summary: "something is wrong"
 # menu:

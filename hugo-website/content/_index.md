@@ -11,7 +11,7 @@ carousel: false
 series:
 categories: []
 tags: []
-images: [images/the-great-deceiver.jpeg]
+images: [ ]
 type: landing
 sidebar: false
 ---

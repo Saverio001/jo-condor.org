@@ -26,7 +26,7 @@ In the misty mountains of ancient China, where legends whispered between bamboo 
 
 It began with Master Liu Wei, a charlatan so brilliant that he convinced entire villages he could transform qi energy into physical shields. His demonstrations were masterpieces of misdirection: assistants would fall dramatically when he "struck" them from yards away, while hidden mechanisms and carefully trained performers created the illusion of supernatural martial prowess.
 
-[ "images/the-great-deceiver.jpeg"](images/the-great-deceiver.jpeg)
+!["images/the-great-deceiver.jpeg"](images/the-great-deceiver.jpeg)
 
 As generations passed, the techniques of bullshido evolved. During the Ming Dynasty, entire schools emerged that taught nothing but elaborate theatrical combat. Students would learn not fighting techniques, but the art of dramatic falls, the science of convincing sound effects, and the psychology of making witnesses believe the impossible.
 

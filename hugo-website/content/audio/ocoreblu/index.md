@@ -1,6 +1,6 @@
 ---
 # type: docs 
-title: Ocoreblu
+title: O'Core Blu
 date: 2025-08-31T19:26:40+02:00
 featured: false
 draft: true
@@ -13,17 +13,18 @@ series:
 categories: []
 tags: []
 images: []
+
 ---
 
+  {{<audio src="O_core_blu.mp3" caption="eq">}}
 
-{{<audio src="O_core_blu.mp3" caption="eq">}}
 
+  A heartbreak in the fog: she left without goodbye, the phone stays silent,  
+  and he wanders the alleys with only blue sorrow and broken promises left.
 
 <!--more-->
 
-Content.
-
-{{<audio src="O_core_blu.mp3" >}}
+## O'core blu
 
 
 
