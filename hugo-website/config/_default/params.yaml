@@ -110,7 +110,7 @@ post:
   copyright: false # Whether to display copyright section on each post.
   # plainifyExcerpt: false # Format excerpt in HTML if false.
   featuredImage: true # Show the featured image above the content.
-  numberifyHeadings: true # Count headings automatically.
+  numberifyHeadings: false # Count headings automatically.
   # numberifyHeadingsEndLevel: 4 # The depth of headings to count. Default to 6.
   numberifyHeadingsSeparator: . # The separator between of number and headings.
   # tocStyleType: decimal # The TOC's CSS list-style-type property.
@@ -272,7 +272,7 @@ docs:
 
 social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
-  email: user@domain.tld
+  email: nobody@test.com
   # github: razonyang/hugo-theme-bootstrap
   # xing: yourxingusername
   # stackoverflow: yourstackoverflowuserid

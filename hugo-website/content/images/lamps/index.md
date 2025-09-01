@@ -5,6 +5,7 @@ date: 2025-08-31T23:16:36+02:00
 featured: false
 comment: true
 toc: true
+draft: true
 reward: true
 pinned: false
 carousel: false

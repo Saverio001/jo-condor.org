@@ -21,7 +21,7 @@ sidebar: false
 
 # Welcome to this test website!
 
-### We are really glad you made it
+#### We are really glad you made it in one piece!
 </div>
 
 <!--more-->
@@ -29,15 +29,9 @@ sidebar: false
 ![Resize](bauhaus.webp?width=1024px#center)
 
 > [!NOTE]
-> You can test
-> - [text](text)
-> - [audio](audio)
-> - [images](images)
-
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> You can use this site to test [text](text), [audio](audio) or [images](images)
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> "Vibe Coding" is frowned upon here.  
+> In any case, make sure 2FA is enabled at all times.
 

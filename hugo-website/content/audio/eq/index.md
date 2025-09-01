@@ -16,9 +16,10 @@ images: []
 
 {{<audio src="eq.mp3" caption="eq">}}
 
+The sound of summer!
 
 <!--more-->
 
-Content.
+Some nice elevator music from the late 80's
 
-{{<audio src="eq.mp3" >}}
+

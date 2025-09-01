@@ -13,9 +13,7 @@ categories: [text]
 tags: [story]
 images: []
 summary: >
-  In a quaint village nestled between rolling hills and whispering woods, there was a peculiar stone. 
-  It was not smooth nor particularly beautiful, and its mottled gray surface seemed unremarkable to any passerby. 
-  Yet, the villagers held a profound reverence for it, for they believed it concealed an enigmatic wisdom.
+  A story about finding meaning - even when it may seem there is none.
 
 
 # menu:
