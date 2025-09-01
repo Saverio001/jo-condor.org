@@ -1,4 +1,4 @@
-baseURL: https://hbs-skeleton.netlify.app/
+baseURL: http://jo-condor.org
 title: Jo-Condor.Org
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
 defaultContentLanguage: en

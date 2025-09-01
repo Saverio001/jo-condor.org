@@ -20,9 +20,8 @@ Welcome to this website!
 
 <!--more-->
 
-![Bauhaus Ballet](bauhaus.webp)
+![Resize](bauhaus.webp?width=1024px#center)
 
-Audio files
 > [!NOTE]
 > You can test
 > - [text](text)
