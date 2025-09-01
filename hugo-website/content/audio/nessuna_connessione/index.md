@@ -3,23 +3,29 @@
 title: Nessuna Connessione
 date: 2025-09-01T00:06:21+02:00
 featured: true
-draft: true
 comment: true
 toc: true
 reward: true
 pinned: false
 carousel: false
 series:
-categories: []
-tags: []
+categories: [audio]
+tags: [song]
 images: []
 ---
+Since Sean "Diddy" Comb was arrested, I struggled to understand what all of this is means for me and my life.
+
+My guess is, there is no connection.
+
 
 {{<audio src="Nessuna_connessione.mp3" caption="eq">}}
 
 
+
 <!--more-->
- 
+
+## Nessuna connessione
+
 Non mi tocca, non c'entra con me,  
 La sua storia cade giù come ceneri.  
 Io cammino, lontana da 'ste catene,  

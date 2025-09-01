@@ -3,15 +3,14 @@
 title: O'Core Blu
 date: 2025-08-31T19:26:40+02:00
 featured: false
-draft: true
 comment: true
 toc: true
 reward: true
 pinned: false
 carousel: false
 series:
-categories: []
-tags: []
+categories: [audio]
+tags: [song]
 images: []
 
 ---
@@ -19,8 +18,8 @@ images: []
   {{<audio src="O_core_blu.mp3" caption="eq">}}
 
 
-  A heartbreak in the fog: she left without goodbye, the phone stays silent,  
-  and he wanders the alleys with only blue sorrow and broken promises left.
+  A heartbreak in the fog, a mobile phone malfunctioning,  
+  he wanders Neaples' alleys with only blue sorrow and broken promises left.
 
 <!--more-->
 

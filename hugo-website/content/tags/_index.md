@@ -2,7 +2,7 @@
 title: Tags
 menu:
   main:
-    parent: blog
+    parent: Content
     weight: 4
     params:
       icon: <i class="fas fa-fw fa-tags"></i>

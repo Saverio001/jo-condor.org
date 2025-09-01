@@ -9,8 +9,8 @@ reward: true
 pinned: false
 carousel: true
 series:
-categories: []
-tags: []
+categories: [audio]
+tags: [song]
 images: []
 ---
 

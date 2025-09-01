@@ -1,5 +1,5 @@
 ---
-# type: docs 
+type: post 
 title: Jo Condor
 date: 2025-08-31T10:28:20+02:00
 featured: true
@@ -14,9 +14,15 @@ tags: []
 images: [ ]
 type: landing
 sidebar: false
----
 
-Welcome to this website!
+
+---
+<div style="text-align: center;">
+
+# Welcome to this test website!
+
+### We are really glad you made it
+</div>
 
 <!--more-->
 

@@ -1,7 +1,7 @@
 ---
 # type: docs 
-title: Images
-date: 2025-08-31T23:17:22+02:00
+title: Text
+date: 2025-08-31T16:25:13+02:00
 featured: false
 comment: true
 toc: true
@@ -14,12 +14,11 @@ tags: []
 images: []
 menu:
   main:
-    identifier: Images
-    weight: 50
+    identifier: Text
+    weight: 10
     params:
       icon: '<i class="fas fa-fw fa-blog"></i>'
-      description: 'Images'
-
+      description: 'Text files'
 ---
 
 Summary.

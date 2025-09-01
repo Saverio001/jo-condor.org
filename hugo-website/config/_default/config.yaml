@@ -1,6 +1,8 @@
-baseURL: http://jo-condor.org
+baseURL: ""
+relativeURLs: true
+canonifyURLs: false
 title: Jo-Condor.Org
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2016-{year} All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
