@@ -1,9 +1,9 @@
 ---
 # type: docs 
-title: Fashion
+title: Haute couture
 date: 2025-08-31T23:16:36+02:00
 featured: false
-comment: true
+comment: false
 toc: true
 reward: true
 pinned: false

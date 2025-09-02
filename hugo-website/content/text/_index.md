@@ -2,7 +2,7 @@
 # type: docs 
 title: Text
 date: 2025-08-31T16:25:13+02:00
-featured: false
+featured: true
 comment: true
 toc: true
 reward: true

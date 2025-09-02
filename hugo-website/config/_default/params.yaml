@@ -85,7 +85,7 @@ titleCase: true # Capitalized title.
 viewer: true # Image Viewer
 
 # backgroundImage: ['/images/bg-light.png', '/images/bg-dark.png']
-# rss: home # link the RSS button to homepage all the times.
+rss: ""  #Turn OFF rss
 
 sidebar:
   fixed: true
@@ -215,8 +215,8 @@ search:
 #share:
   #addThis:  # AddThis pubid.
 
-#actionsPanel:
-  # disabled: true
+actionsPanel:
+  disabled: true
 
 # Comment or remove this settings to disable font size switcher.
 fontSize:
@@ -272,7 +272,7 @@ docs:
 
 social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
-  email: nobody@test.com
+  # email: ""
   # github: razonyang/hugo-theme-bootstrap
   # xing: yourxingusername
   # stackoverflow: yourstackoverflowuserid
@@ -302,6 +302,7 @@ social:
   # paypal: razonyang
   # patreon: razonyang
   # tipeee: yourtipeeeaccount-fr
+  rss: ""
 
 author:
   # name: Razon Yang

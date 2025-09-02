@@ -2,7 +2,8 @@
 type: docs 
 title: "The Serpentine Path of Bullshido"
 date: 2025-08-31T16:01:35+02:00
-comment: true
+comment: false
+draft: true
 toc: true
 reward: true
 pinned: true
@@ -17,11 +18,15 @@ featured:
   caption: ""
   credit: Unknown author
   previewOnly: false
+summary: > 
+    Not a martial art, but the most elaborate dance of illusion and manipulation
+    ever conceived by human imagination.
+
 ---
 
-
-In the misty mountains of ancient China, where legends whispered between bamboo groves, the art of bullshido was born - not as a martial art, but as the most elaborate dance of illusion and manipulation ever conceived by human imagination.
 <!--more-->
+In the misty mountains of ancient China, where legends whispered between bamboo groves, the art of bullshido was born - not as a martial art, but as the most elaborate dance of illusion and manipulation ever conceived by human imagination.
+
 The origins of Bullshido are shrouded in obscurity, with whispers of its creation tracing back to the misty mountains of rural China during the Ming dynasty. It is said that a shadowy figure, known only as "The Great Deceiver," founded the sect as a means of subverting the traditional martial arts hierarchy. This enigmatic individual, rumored to have been a master of the dark arts of persuasion, supposedly distilled the essence of deception into a codified system of movements, breathing techniques, and, above all, linguistic trickery.  
 His demonstrations were masterpieces of misdirection: assistants would fall dramatically when he "struck" them from yards away, while hidden mechanisms and carefully trained performers created the illusion of supernatural martial prowess.
 

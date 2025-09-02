@@ -1,0 +1,32 @@
+---
+# type: docs 
+title: Gerolamo Cardano
+date: 2025-08-31T19:26:40+02:00
+featured: true
+comment: false
+draft: false
+toc: true
+reward: false
+pinned: false
+carousel: false
+series:
+categories: [text]
+tags: []
+images: []
+
+---
+
+# Gerolamo Cardano
+
+Gerolamo Cardano (Italian: [dʒeˈrɔːlamo karˈdaːno]; also Girolamo or Geronimo; French: Jérôme Cardan; Latin: Hieronymus Cardanus; 24 September 1501– 21 September 1576) was an Italian polymath whose interests and proficiencies ranged through those of mathematician, physician, biologist, physicist, chemist, astrologer, astronomer, philosopher, music theorist, writer, and gambler. 
+<!--more-->
+He became one of the most influential mathematicians of the Renaissance and one of the key figures in the foundation of probability; he introduced the binomial coefficients and the binomial theorem in the Western world. He wrote more than 200 works on science.
+
+
+Cardano partially invented and described several mechanical devices including the combination lock, the gimbal consisting of three concentric rings allowing a supported compass or gyroscope to rotate freely, and the Cardan shaft with universal joints, which allows the transmission of rotary motion at various angles and is used in vehicles to this day. He made significant contributions to hypocycloids - published in De proportionibus, in 1570. The generating circles of these hypocycloids, later named "Cardano circles" or "cardanic circles", were used for the construction of the first high-speed printing presses.
+
+
+Today, Cardano is well known for his achievements in algebra. In his 1545 book Ars Magna he made the first systematic use of negative numbers in Europe, published (with attribution) the solutions of other mathematicians for cubic and quartic equations, and acknowledged the existence of imaginary numbers.
+
+
+More on [Wikipedia](https://en.wikipedia.org/wiki/Gerolamo_Cardano)

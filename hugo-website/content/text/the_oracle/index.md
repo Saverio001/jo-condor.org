@@ -3,8 +3,9 @@
 title: The Oracle of the Ordinary
 date: 2025-08-31T16:20:04+02:00
 featured: false
-comment: true
+comment: false
 toc: true
+draft: true
 reward: true
 pinned: false
 carousel: false
@@ -13,7 +14,8 @@ categories: [text]
 tags: [story]
 images: []
 summary: >
-  A story about finding meaning - even when it may seem there is none.
+  The most important question I have now is, what is the point of this story? 
+  Is there even a point?
 
 
 # menu:

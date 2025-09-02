@@ -3,9 +3,9 @@
 title: O'Core Blu
 date: 2025-08-31T19:26:40+02:00
 featured: false
-comment: true
+comment: false
 toc: true
-reward: true
+reward: false
 pinned: false
 carousel: false
 series:
@@ -16,11 +16,9 @@ images: []
 ---
 
   {{<audio src="O_core_blu.mp3" caption="eq">}}
-
-
-  A heartbreak in the fog.  
-  A malfunctioning mobile phone.  
-  Only blue sorrow and broken promises left.
+ 
+A heart is broken into a thousand pieces,  
+And there is no glue that can possibly fix it.  
 
 <!--more-->
 
@@ -62,6 +60,7 @@ E nun ce sta' colla ca 'o po' aggiustà.
 
     
 </div>
+
 <div class="col mt-4">
 
 It was the sun this morning  
