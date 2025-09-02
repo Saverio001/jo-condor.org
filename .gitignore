@@ -4,3 +4,4 @@
 .hugo_build.lock
 hugo_stats.json
 content-old
+hugo-theme-bootstrap@v1.13.3-0.20250512015401-8ede3af8cab8
