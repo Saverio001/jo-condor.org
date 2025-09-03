@@ -55,6 +55,7 @@ googleAdsense:
 # searchBar: false # disable search-bar
 
 poweredBy: false # Whether to show powered by.
+countdown: "2025-10-13T12:10"
 
 # readingTime: false # Whether to display the reading time.
 # postDate: false # Whether to display the post date in the post meta section.
@@ -76,7 +77,7 @@ pinnedPostCount: 3 # The number of pinned posts.
 
 # Custom CSS and JS
 customCSS:
-customJS:
+customJS: [ "js/countdown.js" ]
 
 tocWordCount: 1 # TOC is displayed only if the post's word count exceeds this value.
 

@@ -1,0 +1,7 @@
+{{- if .Site.Params.countdown -}}
+<div class="powered-by mb-2 text-secondary">
+  <small>
+  <p class="text-danger"> This site will go offline in <b id="countdown" data-countdown="{{ .Site.Params.countdown }}">-- -- --</b></p>
+  </small>
+</div>
+{{- end -}}
