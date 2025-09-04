@@ -22,6 +22,7 @@ sidebar: false
 # Welcome to this test website!
 
 #### We are really glad you made it in one piece!
+
 </div>
 
 <!--more-->
@@ -32,6 +33,5 @@ sidebar: false
 > You can use this site to test [text](text), [audio](audio) or [images](images)
 
 > [!CAUTION]
-> "Vibe Coding" is frowned upon here.  
-> In any case, make sure 2FA is enabled at all times.
+> "Vibe Coding" is frowned upon here.  In any case, make sure 2FA is enabled at all times.
 

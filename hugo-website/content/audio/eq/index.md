@@ -1,5 +1,5 @@
 ---
-type: docs 
+#type: docs 
 title: Eq
 date: 2025-08-31T19:26:04+02:00
 featured: false
