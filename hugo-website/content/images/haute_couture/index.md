@@ -13,7 +13,7 @@ categories: []
 tags: []
 images: []
 Summary: " A trip to the Fashion Frontier."
-
+weight: 15
 ---
 Haute couture is not just for the elite—it is the heartbeat of fashion, inspiring creativity, pushing boundaries, and shaping the future of style for everyone. Its artistry and innovation trickle down, influencing everyday wear and empowering self-expression across all walks of life. It is a universal language of boldness, imagination, and individuality.
 
@@ -42,5 +42,16 @@ It's a true testament to the designer's ability to blend fantasy with fashion, r
 A second‑skin, long‑sleeve mini in stretch jersey with engineered, tattoo‑style trompe‑l’oeil—impeccable placement and body‑mapping that sculpt the torso.  
 Editorially potent, but the skull-forward graphic risks novelty; the concept leans more on print than on cut.
 
+<hr>
 
-{{< gallery images="images/model-1.jpeg,images/model-2.jpeg,images/model-3.jpeg" >}}
+![](images/model-5.jpeg)
+
+
+A head-turning, cosmetics-adorned extravaganza. The model's headdress, a riotous assembly of glue sticks, pom-poms, and party hats, is a maximalist's dream.
+
+But beneath the dazzle the message is anything but subtle. 
+Love it or hate it, this dress will be talked about – but is that enough to elevate it to true haute couture?
+
+<hr>
+
+{{< gallery images="images/model-1.jpeg,images/model-2.jpeg,images/model-3.jpeg,images/model-5.jpeg" >}}

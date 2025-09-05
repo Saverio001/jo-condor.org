@@ -1,6 +1,6 @@
 ---
 # type: docs 
-title: O'Core Blu
+title: "'O Core Blu"
 date: 2025-08-31T19:26:40+02:00
 featured: false
 comment: false
@@ -12,17 +12,17 @@ series:
 categories: [audio]
 tags: [song]
 images: []
-
+weight: 20
 ---
 
-  {{<audio src="O_core_blu.mp3" caption="eq">}}
- 
 A heart is broken into a thousand pieces,  
 And there is no glue that can possibly fix it.  
 
+  {{<audio src="O_core_blu.mp3" caption="eq">}}
+
 <!--more-->
 
-## O'core blu
+## 'O core blu
 
 
 <div id="app" class="container">

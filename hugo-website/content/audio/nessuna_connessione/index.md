@@ -12,6 +12,7 @@ series:
 categories: [audio]
 tags: [song]
 images: []
+weight: 10
 ---
 Sean "Diddy" Comb was arrested.  
 

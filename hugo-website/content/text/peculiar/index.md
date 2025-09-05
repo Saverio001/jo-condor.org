@@ -17,27 +17,39 @@ summary:  >
             All these texts share one peculiar commonality: they are all incredibly boring.
             Each of them tells you nothing significant, or meaningful.<br>
 
-            Why should you care, then?
+            One could possibly wonder, is that all there is?
 
 ---
 
 
-All these texts share one peculiar commonality: they are all incredibly boring. 
+All these texts share one peculiar commonality: they are all incredibly boring.   
+
 Each of them tells you nothing, and leaves you in exactly the same state of mind as before.
 You would not be able to recall what each was about - much less, *why was it even there*.  
 
 They are the white noise of the written word.  
 They mean nothing because *they are not supposed to mean anything*.
 
-Clearly, wondering about the meaning of what has explicitly been
-designed to have none is a fool's errand. 
+Wondering about the meaning of what has explicitly been
+designed to have no meaning is a fool's errand.
+Where does this leave us, then?
+One valuable clue is, if there are any insights to be gained,
+it could be useful to change our perspective.
 
-But there are still valuable insights to be gained, if we just shift our
-perspective away from the content of the texts themselves.
+{{< gallery images="images/b1.png,images/b2.png,images/b3.png,images/b4.png" >}}
 
 
-As an example, a question to ask is not "what does it mean", but "*who* put it there and *why*"".  
-Not "who could be reading this", but *"why would anybody be reading this?"*. 
+Regardless from its content, any text always carry important questions of **agency** and **intentionality**:
 
-Please take a moment and answer them as they will help you plan the next step.
+- "Who is responsible for the events, ideas, or words here?"
+- "Why was this written? What is it trying to achieve?"
+- "What underlying beliefs, biases, or assumptions drive it?"
 
+As an example, a question to ask would not be "what does it mean", but "*who* put it there and *why*"".  
+
+Not "who could possibly be reading this", but *"why would anybody be reading this? What could their motivation be?*". 
+
+Texts are never neutral: they inherently involve questions of who acts and why, shaping how we engage with meaning.
+
+![Daniel](images/daniel_m.jpg?width=200#right)
+ 

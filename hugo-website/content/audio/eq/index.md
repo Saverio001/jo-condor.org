@@ -12,14 +12,15 @@ series:
 categories: [audio]
 tags: [song]
 images: []
+weight: 30 
 ---
+
+Summer 1979
 
 {{<audio src="eq.mp3" caption="eq">}}
 
-The sound of summer '79!
-
 <!--more-->
 
-Some nice elevator music from the late 70's
+
 
 
