@@ -21,13 +21,13 @@ sidebar: false
 
 # Welcome to this test website!
 
-#### We are really glad you made it in one piece!
+#### We are really glad you made it here in one piece
 
 </div>
 
 <!--more-->
 
-![Resize](bauhaus.webp?width=800px#center)
+![We are really glad you made it here in one piece](bauhaus.png?width=800px#center)
 
 > [!NOTE]
 > You can use this site to test [text](text), [audio](audio) or [images](images)
