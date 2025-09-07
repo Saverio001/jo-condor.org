@@ -14,21 +14,21 @@ categories: [text]
 tags: []
 images: []
 summary:  > 
-            All these texts share one peculiar commonality: they are all incredibly boring.
-            Each of them tells you nothing significant, or meaningful.<br>
+            Sometimes, you come across texts that share one peculiar commonality: they are all incredibly boring.   
+            Each of them tells you nothing, and leaves you in exactly the same state of mind as before.<br>
 
-            One could possibly wonder, is that all there is?
+            How should we respond to this?
 
 ---
 
 
-All these texts share one peculiar commonality: they are all incredibly boring.   
+Sometimes you come across some texts that share one peculiar commonality: they are all incredibly boring.   
 
 Each of them tells you nothing, and leaves you in exactly the same state of mind as before.
 You would not be able to recall what each was about - much less, *why was it even there*.  
+They mean nothing, in a very deliberate way: *as if they were designed not to mean anything*.
 
 They are the white noise of the written word.  
-They mean nothing because *they are not supposed to mean anything*.
 
 Wondering about the meaning of what has explicitly been
 designed to have no meaning is a fool's errand.
@@ -47,7 +47,9 @@ Regardless from its content, any text always carry important questions of **agen
 
 As an example, a question to ask would not be "what does it mean", but "*who* put it there and *why*"".  
 
-Not "who could possibly be reading this", but *"why would anybody be reading this? What could their motivation be?*". 
+Not "What is its audience?", but *"What could their motivations be?*". 
+
+It is always useful to pause, just for a moment, thinking about these questions.
 
 Texts are never neutral: they inherently involve questions of who acts and why, shaping how we engage with meaning.
 
