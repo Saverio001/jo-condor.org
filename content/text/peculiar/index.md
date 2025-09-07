@@ -51,7 +51,8 @@ Not "What is its audience?", but *"What could their motivations be?*".
 
 It is always useful to pause, just for a moment, thinking about these questions.
 
+{{% clearfix %}} 
+![Float End](images/daniel_m.jpg?width=200#float-start)
 Texts are never neutral: they inherently involve questions of who acts and why, shaping how we engage with meaning.
-
-![Daniel](images/daniel_m.jpg?width=200#right)
+{{% /clearfix %}}
  
