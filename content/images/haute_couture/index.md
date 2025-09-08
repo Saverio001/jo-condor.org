@@ -9,10 +9,9 @@ reward: true
 pinned: false
 carousel: false
 series:
-categories: []
+categories: [images]
 tags: []
 images: []
-Summary: " A trip to the Fashion Frontier."
 weight: 15
 ---
 Haute couture is not just for the elite—it is the heartbeat of fashion, inspiring creativity, pushing boundaries, and shaping the future of style for everyone. Its artistry and innovation trickle down, influencing everyday wear and empowering self-expression across all walks of life. It is a universal language of boldness, imagination, and individuality.
