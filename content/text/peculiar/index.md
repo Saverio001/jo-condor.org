@@ -18,7 +18,7 @@ summary:  >
             Sometimes you come across texts that share one common peculiarity: they are all incredibly boring.   
             Each of them tells you nothing, and leaves you in exactly the same state of mind as before.<br>
 
-            What could be a reasonable course of action?
+            What could a reasonable course of action be, then?
 
 ---
 
@@ -29,13 +29,13 @@ Each of them tells you nothing, and leaves you in exactly the same state of mind
 You would not be able to recall what each was about - much less, *why was it even there*.  
 This does not appear to be by chance: it is clear, even at first glance, that lots of 
 care went into crafting them.
-They mean nothing, but in a very deliberate way: *as if they were designed not to mean anything*.
+They mean nothing, but in a very deliberate way: as if they were *designed* not to mean anything.
 
 They are the white noise of the written word.  
 
 Wondering about the meaning of what has explicitly been
-designed to have no meaning is a fool's errand.
-What could be a reasonable course of action, then?
+designed to have no meaning does not seem to be very useful.
+What could a reasonable course of action be, then?
 
 One valuable clue is, if there are any insights to be gained,
 it could be useful to shift our perspective a bit.

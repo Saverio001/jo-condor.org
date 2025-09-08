@@ -3,17 +3,17 @@
 title: "The Architect of Ornament"
 date: 2025-09-04T01:08:35+02:00
 featured: false
-draft: true
+draft: false
 comment: false
-toc: true
-reward: true
+toc: false
+reward: false
 pinned: false
 carousel: false
 series:
-categories: []
+categories: [images]
 tags: []
 images: []
-weight: 20
+weight: 30
 ---
 
 In an age when fashion risks dissolving into repetition, Haute Couture emerges as a voice that insists on its own clarity. Couturiers are not simply bespoke tailors, but constructors of visions carrying the rigor of architecture, the lyricism of poetry, and the audacity of performance.
