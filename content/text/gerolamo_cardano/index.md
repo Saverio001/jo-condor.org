@@ -13,6 +13,7 @@ series:
 categories: [text]
 tags: []
 images: []
+weight: 10
 ---
 Gerolamo Cardano (Italian: [dʒeˈrɔːlamo karˈdaːno]; also Girolamo or Geronimo; French: Jérôme Cardan; Latin: Hieronymus Cardanus; 24 September 1501– 21 September 1576) was an Italian polymath whose interests and proficiencies ranged through those of mathematician, physician, biologist, physicist, chemist, astrologer, astronomer, philosopher, music theorist, writer, and gambler. 
 
