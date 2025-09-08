@@ -3,9 +3,9 @@
 title: Images
 date: 2025-08-31T23:17:22+02:00
 featured: false
-comment: true
-toc: true
-reward: true
+comment: false
+toc: false
+reward: false
 pinned: false
 carousel: false
 series:

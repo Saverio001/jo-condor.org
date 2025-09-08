@@ -51,9 +51,9 @@ Regardless from its content, any text always carry important questions of **agen
 
 As an example, a question to ask would not be "what does it mean", but "*who* put it there and *why*".  
 
-Not "What is its audience?", but *"What could their motivations be?*". 
+Not "What is its audience?", but *"What could motivate a reader to read it?"*. 
 
-It is always useful to pause, just for a moment, thinking about these questions.  
+It is sometimes useful to pause, just for a moment, thinking about this.  
 Texts are never neutral: they inherently involve questions of who acts and why, shaping how we engage with meaning.
 
 ![Daniel](images/daniel_m.jpg?width=320#center)
