@@ -1,4 +1,4 @@
-baseURL: "/"
+#baseURL: ""
 relativeURLs: false
 canonifyURLs: false
 title: CDN Test
