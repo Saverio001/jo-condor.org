@@ -1,5 +1,5 @@
 baseURL: "/"
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: false
 title: CDN Test
 copyright: 'Copyright © 2016-{year} All Rights Reserved.'
