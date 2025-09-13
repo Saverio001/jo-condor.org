@@ -1,13 +1,13 @@
 ---
 #type: docs 
-title: Eq
+title: EQ.
 date: 2025-08-31T19:26:04+02:00
-featured: false
+featured: true
 comment: false
-toc: true
-reward: true
+toc: false
+reward: false
 pinned: false
-carousel: true
+carousel: false
 series:
 categories: [audio]
 tags: [song]

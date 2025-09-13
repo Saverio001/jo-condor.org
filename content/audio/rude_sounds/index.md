@@ -16,8 +16,7 @@ images: []
 weight: 100
 ---
 
-Warning: rude and generally unacceptable sounds. 
-
+**Warning:** rude and generally unacceptable sounds.  
 Discretion advised.
 
   {{<audio src="rude_sounds.mp3" caption="Rude and unacceptable sounds">}}
