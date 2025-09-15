@@ -3,10 +3,10 @@
 title: "A Quick Guide to Bioluminescence"
 date: 2025-09-08T20:18:54+02:00
 featured: false
-draft: false
-comment: true
-toc: true
-reward: true
+draft: true
+comment: false
+toc: false
+reward: false
 pinned: false
 carousel: false
 series:
