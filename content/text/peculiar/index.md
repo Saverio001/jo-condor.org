@@ -9,7 +9,7 @@ toc: false
 reward: false
 pinned: false
 carousel: false
-series: true
+series: []
 categories: [text]
 tags: []
 images: []
