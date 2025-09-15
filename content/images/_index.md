@@ -17,7 +17,7 @@ menu:
     identifier: Images
     weight: 50
     params:
-      icon: '<i class="fas fa-fw fa-blog"></i>'
+      icon: '<i class="fas fa-fw fa-camera"></i>'
       description: 'Images'
 
 ---

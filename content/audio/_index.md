@@ -18,7 +18,7 @@ menu:
     identifier: Audio
     weight: 50
     params:
-      icon: '<i class="fas fa-volume-high"></i>'
+      icon: '<i class="fas fa-volume-up"></i>'
       description: 'Audio'
 
 ---

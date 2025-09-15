@@ -17,7 +17,7 @@ menu:
     identifier: Text
     weight: 10
     params:
-      icon: '<i class="fas fa-fw fa-blog"></i>'
+      icon: '<i class="fas fa-fw fa-file"></i>'
       description: 'Text files'
 ---
 

@@ -14,12 +14,10 @@ categories: [text]
 tags: []
 images: []
 weight: 200
-resources: 
-- src: analyzing_intentionality.md
-  name: "analyzing_intentionality" 
+
 
 summary:  > 
-            Sometimes you come across texts that share one common peculiarity: they are all incredibly boring.   
+            Sometimes you come across some texts that share one common peculiarity: they are all incredibly boring.   
             Each of them tells you nothing, and leaves you in exactly the same state of mind as before.<br>
 
             What could a reasonable course of action be, then?
@@ -57,7 +55,7 @@ As an example, a question to ask would not be "what does it mean", but "*who* pu
 Not "What is its audience?", but *"What could motivate a reader to read it?"*. 
 
 It is sometimes useful to pause, just for a moment, and think about this.  
-Texts are never neutral: they inherently involve questions of who acts and why, shaping how we engage with meaning.
+Texts are never neutral: they always imply questions of who acts and why, shaping how we engage with meaning.
 
 
 ![Daniel](images/daniel_m.jpg?width=320#center)
