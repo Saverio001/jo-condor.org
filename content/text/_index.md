@@ -2,10 +2,10 @@
 # type: docs 
 title: Text
 date: 2025-08-31T16:25:13+02:00
-featured: true
-comment: true
-toc: true
-reward: true
+featured: false
+comment: false
+toc: false
+reward: false
 pinned: false
 carousel: false
 series:
@@ -21,8 +21,3 @@ menu:
       description: 'Text files'
 ---
 
-Summary.
-
-<!--more-->
-
-Content.

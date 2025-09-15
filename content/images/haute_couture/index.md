@@ -13,6 +13,7 @@ categories: [images]
 tags: []
 images: []
 weight: 15
+featuredImageAlt: "Bad Taste: 1983"
 ---
 Haute couture is not just for the elite—it is the heartbeat of fashion, inspiring creativity, pushing boundaries, and shaping the future of style for everyone. Its artistry and innovation trickle down, influencing everyday wear and empowering self-expression across all walks of life. It is a universal language of boldness, imagination, and individuality.
 
@@ -20,13 +21,13 @@ Haute couture is not just for the elite—it is the heartbeat of fashion, inspir
 
 <hr>
 
-![](images/model-2.jpeg)
+!["Camp-cowboy couture in candy pink"](images/model-2.jpeg)
 
 Camp-cowboy couture in candy pink—oversized bow, power tie, and engineered proportions—winking as it rewrites dress codes. Behind the irony is a razor‑sharp message about performed authority, and it’s much smarter than it looks.
 
 <hr>
 
-![](images/model-1.jpeg)
+![A theatrical couture tableau](images/model-1.jpeg)
 
 
 A theatrical couture tableau: a doll‑like silhouette layered with hand‑appliquéd storybook panels, mixed‑media trinkets and meticulously tailored ruffles — a masterclass in craftsmanship that turns nostalgic imagery into a smart, maximalist narrative.
@@ -35,7 +36,7 @@ It's a true testament to the designer's ability to blend fantasy with fashion, r
 
 <hr>
 
-![](images/model-3.jpeg)
+![A second‑skin, long‑sleeve mini in stretch jersey with engineered, tattoo‑style trompe‑l’oeil](images/model-3.jpeg)
 
 
 A second‑skin, long‑sleeve mini in stretch jersey with engineered, tattoo‑style trompe‑l’oeil—impeccable placement and body‑mapping that sculpt the torso.  
@@ -43,7 +44,7 @@ Editorially potent, but the skull-forward graphic risks novelty; the concept lea
 
 <hr>
 
-![](images/model-5.jpeg)
+![A head-turning, cosmetics-adorned extravaganza](images/model-5.jpeg)
 
 
 A head-turning, cosmetics-adorned extravaganza. The model's headdress, a riotous assembly of glue sticks, pom-poms, and party hats, is a maximalist's dream.

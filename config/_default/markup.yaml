@@ -30,5 +30,5 @@ markup:
     parser:
       wrapStandAloneImageWithinParagraph: false      
       attribute:
-        block: false
+        block: true
         title: true

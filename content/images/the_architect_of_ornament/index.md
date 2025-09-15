@@ -20,17 +20,21 @@ In an age when fashion risks dissolving into repetition, Haute Couture emerges a
 
 <!--more-->
 
-Their creations stride down the runway not as clothing but as manifestos, declarations of form and texture, geometry and ornament, discipline and freedom.
+Their creations stride down the catwalk not as clothing but as manifestos, declarations of form and texture, geometry and ornament, discipline and freedom.
 
 {{< gallery images="images/daisuke-four_leaves-0.png,images/daisuke-four_leaves-1.png,images/daisuke-butterfly-2.jpeg,images/daisuke-butterfly-1.jpeg" >}}
 
 A couturier is, above all, the Architect of Ornament.  
+
 Every seam, embellishment and silhouette is meticulously conceived, not merely to clothe the body, but to transform it into a living edifice of artistry. Like an architect, the couturier balances structure and fantasy, engineering garments that are both technically precise and visually transcendent. 
 
-![resize](images/daisuke-workshop.png?width=180#center)
+
+Ornamentation is never superfluous; it is integral, a language of detail that elevates fabric into sculpture. Through cut, embroidery, beadwork, and innovative construction, the couturier builds wearable monuments—each piece a testament to the power of imagination disciplined by craft. In this way, the couturier does not just decorate the body, but redefines it, making every creation a singular act of architectural poetry.
 
 
-Ornamentation is never superfluous; it is integral, a language of detail that elevates fabric into sculpture. Through embroidery, beadwork, and innovative construction, the couturier builds wearable monuments—each piece a testament to the power of imagination disciplined by craft. In this way, the couturier does not just decorate the body, but redefines it, making every creation a singular act of architectural poetry.
+![Daisuke](images/daisuke-workshop.png?width=320#center)
+
+
 
 
 
