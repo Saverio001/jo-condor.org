@@ -46,7 +46,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        working-directory: hugo-hbs
       - name: Install Node.js dependencies
         working-directory: hugo-hbs  
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
