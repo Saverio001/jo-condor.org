@@ -25,7 +25,6 @@ concurrency:
 defaults:
   run:
     shell: bash
-    working-directory: hugo-hbs
 
 jobs:
   # Build job
@@ -47,12 +46,15 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        working-directory: hugo-hbs
       - name: Install Node.js dependencies
+        working-directory: hugo-hbs  
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+        working-directory: hugo-hbs  
         run: |
           hugo \
             --minify \
@@ -60,7 +62,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./hugo-hbs/public
+
 
   # Deployment job
   deploy:
