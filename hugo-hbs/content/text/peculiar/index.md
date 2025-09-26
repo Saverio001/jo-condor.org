@@ -30,7 +30,7 @@ Each of them tells you nothing, and leaves you in exactly the same state of mind
 You would not be able to recall what each was about - much less, *why was it even there*.
 This does not appear to be by chance: it is clear, even at first glance, that lots of 
 care went into crafting them.
-They mean nothing, but in a very deliberate way: as if they were *designed* not to mean anything.
+They mean nothing, but in a very deliberate way: as if they were *designed* to mean nothing.
 
 They are the white noise of the written word.  
 
