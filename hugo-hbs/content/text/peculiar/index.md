@@ -44,7 +44,7 @@ it could be useful to shift our perspective a bit.
 {{< gallery images="images/b1.png,images/b2.png,images/b3.png,images/b4.png" >}}
 
 
-Regardless from its content, any text always carries important questions of **agency** and **intentionality**:
+Regardless of its content, any text always carries important questions of **agency** and **intentionality**:
 
 - "Who is responsible for the events, ideas, or words here?"
 - "Why was this written? What is it trying to achieve?"
