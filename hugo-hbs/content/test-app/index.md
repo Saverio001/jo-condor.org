@@ -17,7 +17,7 @@ images: []
 menu:
   main:
     identifier: To do
-    weight: 90
+    weight: 100
     params:
       icon: '<i class="fas fa-fw fa-file"></i>'
       description: 'To do list'
