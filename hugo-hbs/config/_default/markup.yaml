@@ -27,8 +27,13 @@ goldmark:
     xhtml: false
 markup:
   goldmark:
+    renderHookd.image:
+      enableDefault: true
     parser:
       wrapStandAloneImageWithinParagraph: false      
       attribute:
         block: true
         title: true
+module.mounts:
+  source: "static"
+  target: "assets"

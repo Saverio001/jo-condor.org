@@ -4,10 +4,10 @@ sidebar: false
 title: Todo
 date: 2025-10-08T15:11:13+02:00
 featured: false
-draft: true
-comment: true
-toc: true
-reward: true
+draft: false
+comment: false
+toc: false
+reward: false
 pinned: false
 carousel: false
 series:
@@ -19,8 +19,8 @@ menu:
     identifier: To do
     weight: 100
     params:
-      icon: '<i class="fas fa-fw fa-file"></i>'
+      icon: '<i class="fas fa-fw fa-bolt"></i>'
       description: 'To do list'
 ---
 
-{{< iframe "/todo" >}}
+{{< iframe "/todo/" >}}
